@@ -44,8 +44,3 @@ npm run dev
 
 
 #### [Go to WTFresume website](https://wtfresume.com "wtfresume")
-
-
-### Contributing
-Yes of course! Welcome :)
-
